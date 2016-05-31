@@ -1,3 +1,11 @@
 <resources>
   <string name="app_name">Hacker News</string>
+  <plurals name="scores">
+    <item quantity="one">%d score</item>
+    <item quantity="other">%d scores</item>
+  </plurals>
+  <plurals name="comments">
+    <item quantity="one">%d comment</item>
+    <item quantity="other">%d comments</item>
+  </plurals>
 </resources>
