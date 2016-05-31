@@ -1,5 +1,5 @@
 # hacker-news
-Yet another simple Android app for reading Hacker News, built by following MVVM architectual approach. Data was provided by https://github.com/HackerNews/API.
+Yet another simple Android app for reading Hacker News, built by using a MVVM architectural approach. Data was provided by https://github.com/HackerNews/API.
 
 Testing
 -------
