@@ -1,9 +1,9 @@
 # hacker-news
-Yet another simple Android app for reading Hacker News, built by using a MVVM architectural approach. Data was provided by https://github.com/HackerNews/API.
+Yet another simple Android app for reading Hacker News, built by using a MVVM architectural approach. The app supports from API 9 to 23 and is able to work in both portrait and landscape. Data is provided by https://github.com/HackerNews/API.
 
 Testing
 -------
-In order to run all the unit tests, run the following command at the root of the project.
+In order to run [all the unit tests](https://github.com/thuytrinh/hacker-news/tree/master/app/src/test), run the following command at the root of the project.
 ```
 ./gradlew clean test
 ```
