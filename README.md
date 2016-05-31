@@ -1,6 +1,13 @@
 # hacker-news
 Yet another Android app of https://github.com/HackerNews/API
 
+Testing
+-------
+In order to run all the unit tests, run the following command at the root of the project.
+```
+./gradlew clean test
+```
+
 License
 -------
 
